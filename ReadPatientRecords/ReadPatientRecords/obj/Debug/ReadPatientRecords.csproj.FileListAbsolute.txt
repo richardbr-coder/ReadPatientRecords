@@ -1,0 +1,7 @@
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\ReadPatientRecords\ReadPatientRecords\bin\Debug\ReadPatientRecords.exe.config
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\ReadPatientRecords\ReadPatientRecords\bin\Debug\ReadPatientRecords.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\ReadPatientRecords\ReadPatientRecords\bin\Debug\ReadPatientRecords.pdb
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.csprojAssemblyReference.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.csproj.CoreCompileInputs.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.pdb
